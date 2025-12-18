@@ -67,3 +67,9 @@ The low MAE on test data indicates strong predictive performance and good genera
 
 ## 📁 Project Structure
 
+WEATHER_PREDICTION_APP/
+├── README.md
+├── weather_data.csv
+└── weather_prediction_app.ipynb
+
+
