@@ -63,14 +63,15 @@ Missing values are handled during preprocessing, and the data is indexed by year
 
 The low MAE on test data indicates strong predictive performance and good generalization.
 
----
 Project Structure
 -----------------
 
-WEATHER_PREDICTION_APP/
-├── README.md
-├── weather_data.csv
-└── weather_prediction_app.ipynb
+- **WEATHER_PREDICTION_APP/**
+  - README.md
+  - weather_data.csv
+  - weather_prediction_app.ipynb
+
+
 
 
 
